@@ -232,5 +232,10 @@ img{
         flex-direction: column;
         padding: 5px;
     }
+    h1{
+    font-family: "Poppins", sans-serif;
+    font-weight:500;
+    font-size: small;
+    }
     
 }
